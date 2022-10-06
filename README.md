@@ -1,4 +1,4 @@
-# Fundamentals
+### 100_days_Fundamentals_challenge
 
 This repository will contain the fundamental parts. 
 I have taken 100 days challenge to work on the fundamental knowledge. 
